@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "634242314743",
+    "project_id": "angelahuilcaleo130-5c54a",
+    "storage_bucket": "angelahuilcaleo130-5c54a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634242314743:android:9ce79823e9edc38d453ef2",
+        "android_client_info": {
+          "package_name": "cl.inacap.alertnetmobile.sistemaalertaiot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGB_ZgeMQ5hacp78DFfT2zL1EWv3fIR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
